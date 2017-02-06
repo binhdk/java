@@ -1,2 +1,1 @@
-# java
-This is program 'Student Management in java Swing'
+# Some program when study java
